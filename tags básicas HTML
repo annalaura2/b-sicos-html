@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            Tags HTML
+        </title>
+        <style>
+            h1{
+                font-size: 30pt;
+                color: antiquewhite;
+                font-family:serif;
+            }
+            h2{
+                font-size: 16;
+                color: antiquewhite;
+                font-family: cursive;
+            }
+
+            body{
+                background-color: black;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1> 
+            TAGS BÁSICAS EM HTML
+        </h1>
+        <h2> 
+            Aqui estão tags básicas do HTML
+        </h2>
+        <h2>
+            <ul type = "square">
+                <li>
+                    <abbr title="Use a tag <p>"> Paragráfo</abbr>
+                </li>
+
+                <li>
+                    <abbr title = "Use a tag <h1>, <h2>..."> Títulos </abbr>
+                </li>
+
+                <li>
+                    <abbr title="Use a tag <img>"> Imagens</abbr>
+                </li>
+
+                <li>
+                    <abbr title="Use a tag <abbr>"> Abreviações </abbr>
+                </li>
+
+                <li>
+                    <abbr title="Use a tag <code>" > Código-fonte </abbr>
+                </li>
+                
+                <li>
+                    <abbr title = "Use as tags <ol> <li>"> Listas numeradas </abbr>
+                </li>
+
+                <li>
+                    <abbr title = "Use as tags <ul> <li>"> Listas não numeradas </abbr>
+                </li>
+            </ul>
+
+        </h2>
+    </body>
+</html>
