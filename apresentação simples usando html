@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-80"> 
+        <title>
+            Redes sociais
+        </title>
+
+        <style>
+            h1{
+                font-size: 28pt;
+                color: rgb(0, 0, 0);
+                font-family: 'Times New Roman', Times, serif;
+            }
+
+            h2{
+                font-size: 18pt;
+                color: rgb(125, 116, 116);
+                font-family: 'Times New Roman', Times, serif;
+            }
+
+        
+            body{
+                background-color: bisque;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div id="Minhas redes sociais"></div>
+
+        <p>
+            <h1>
+                Minhas redes sociais
+            </h1>
+                <h2>
+                    Quem sou eu?
+                </h2>
+            
+            <img src="foto77.png">
+
+        </p>
+
+        <br>
+        <p>
+            <adress>Meu nome é <strong> Anna Laura Castro Sousa </strong> 
+                <br>
+                <ul type = "square">
+                    <li> 18 anos </li>
+                    <li>
+                        Graduanda em Ciência da Computação
+                    </li>
+                    <li> Aprendendo HTML </li>
+                </ul>
+            </adress>
+        </p>
+
+        <p>
+            <h1> 
+                FORMAS DE CONTATO
+            </h1>
+            <ul type = "square">
+                <img src="instagram-logo-5744708_1280.webp"> <a href="https://www.instagram.com/annalauracodess/" hreflang="pt-br" target="_blank" rel="external"> Acesse meu instagram</a>
+
+            </ul>
+        </p>
+
+
+
+
+
+
+
+
+    </body>
+
+</html>
